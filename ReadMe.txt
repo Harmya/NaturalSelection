@@ -13,4 +13,4 @@ higher fitness = closer to the target. individuals with high fitness are more li
 after generation 0 exhausts their genes, we mate them and spawn a new generation.
 
 In theory, this should increase each generation's ability to reach their target. 
-with each generation, the fitness score increses, thereby confirming darwin's thoery of survival of the fittest
+with each generation, the fitness score increses, thereby confirming darwin's theory of survival of the fittest
