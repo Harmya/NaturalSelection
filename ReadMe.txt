@@ -3,7 +3,7 @@ This project is about simulating natural selection
 to run the code, load the code in a same directory and run the main html file
 to modify the parameter, change the variables at beginning of the FinGeneAlgo.js file
 
-All the processes have been outlines in the documentation 
+All the processes have been outlined in the documentation 
 genes = Their 2D vectors
 individuals = balls
 
