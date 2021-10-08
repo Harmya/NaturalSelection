@@ -20,3 +20,4 @@ Here is a representation of how the simulation works:
   <img src="SimulationNS.gif" alt="animated" />
 </p>
 
+As we can see that with each generation, we increase out total generation fitness and we get to the target. Hence, even though the mutations are random, we get stronger offsprings based on the principle of natural selection. 
