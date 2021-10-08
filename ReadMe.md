@@ -17,4 +17,4 @@ with each generation, the fitness score increses, thereby confirming darwin's th
 
 Here is a representation of how the simulation works:
 
-![alt text] (https://github.com/harmya/NaturalSelection/blob/main/SimulationNS.gif)
+![alt text] https://github.com/harmya/NaturalSelection/blob/main/SimulationNS.gif
