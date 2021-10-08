@@ -14,3 +14,7 @@ after generation 0 exhausts their genes, we mate them and spawn a new generation
 
 In theory, this should increase each generation's ability to reach their target. 
 with each generation, the fitness score increses, thereby confirming darwin's theory of survival of the fittest
+
+Here is a representation of how the simulation works:
+
+![alt text] (https://github.com/harmya/NaturalSelection/blob/main/SimulationNS.gif)
