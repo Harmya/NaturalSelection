@@ -16,5 +16,7 @@ In theory, this should increase each generation's ability to reach their target.
 with each generation, the fitness score increses, thereby confirming darwin's theory of survival of the fittest
 
 Here is a representation of how the simulation works:
+<p align="center">
+  ![](SimulationNS.gif)
+</p>
 
-![](SimulationNS.gif)
